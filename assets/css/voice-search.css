@@ -1,0 +1,10 @@
+.rvs-mic-btn{
+    border: 0;
+    background-color: transparent;
+}
+.rvs-mic-wrapper{
+    width: 100%;
+}
+.hide_mic{
+    display: none;
+}
